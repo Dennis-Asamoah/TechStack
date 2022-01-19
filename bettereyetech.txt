@@ -1,4 +1,7 @@
-languagues
+languages
 -python
--dart 
+-dart
+
+frameworks
+-Django  
 
