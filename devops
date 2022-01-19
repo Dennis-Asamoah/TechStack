@@ -1,4 +1,2 @@
--AWS 
--docker
--docker swarm for simple ochestration as kubernetes  is no longer supported for docker 
- 
+-Jenkins
+-Terraform
